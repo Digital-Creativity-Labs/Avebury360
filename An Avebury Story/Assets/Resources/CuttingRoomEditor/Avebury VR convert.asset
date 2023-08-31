@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6193bfad6901e284098419ef30595741, type: 3}
+  m_Name: Avebury VR convert
+  m_EditorClassIdentifier: 
+  narrativeObjectNodeStates:
+  - narrativeObjectGuid: 6aa3541b-c9e7-4333-a7e4-8f2f3d89efac
+    position: {x: 319, y: 179}
+  - narrativeObjectGuid: 35a6da9a-3eb3-4a67-a340-f8028f77b6c9
+    position: {x: 817, y: 190}
+  - narrativeObjectGuid: ce7de1c2-ec50-43ee-b076-d16ff93d47cd
+    position: {x: 817, y: 343}
+  - narrativeObjectGuid: 34454b1c-7257-43ec-a686-fd96d450e7e5
+    position: {x: 820, y: 191}
+  - narrativeObjectGuid: a9ae0a16-01ef-4dc4-959c-b34050a0ff7a
+    position: {x: 521, y: 286}
+  - narrativeObjectGuid: 731fb733-ca34-4c34-bd04-571f375bb448
+    position: {x: 746, y: -28}
+  - narrativeObjectGuid: 729a8d52-7932-40f3-8f63-84c61e341432
+    position: {x: 808, y: 114}
+  - narrativeObjectGuid: 24ceb0c7-1f9a-49e5-bbcd-ceb78637ca17
+    position: {x: 808, y: 259}
+  - narrativeObjectGuid: d43f1bb2-edf2-4173-932b-f861201caed0
+    position: {x: 800, y: 53}
+  - narrativeObjectGuid: 1fa1646f-5e35-4e29-9fd5-27b028bfd568
+    position: {x: 498, y: 187}
+  - narrativeObjectGuid: 6ed729e1-fba0-4f7d-a9c1-5b499bf72511
+    position: {x: 1151, y: -111}
+  - narrativeObjectGuid: 1c545651-101b-4f72-a299-1fa2250fcbcf
+    position: {x: 1151, y: 88}
+  - narrativeObjectGuid: c309f286-c017-4342-a2d2-8072ff36394e
+    position: {x: 746, y: 390}
+  - narrativeObjectGuid: 7a3e0358-3986-497e-a93a-667e7392a037
+    position: {x: 817, y: 191}
+  - narrativeObjectGuid: 835a0e3e-a36c-4da9-8ba7-f4bf0f2961bf
+    position: {x: 817, y: 324}
+  - narrativeObjectGuid: d27592cb-2e0e-48b6-9d8a-7e6f52c57dd6
+    position: {x: 823, y: 81}
+  - narrativeObjectGuid: 1bbdc5cf-6b8a-4a0d-a0e7-e5be73abf6e8
+    position: {x: 534, y: 193}
+  - narrativeObjectGuid: f0494599-ee85-4293-ab67-870ef08ab423
+    position: {x: 1152, y: 506}
+  - narrativeObjectGuid: 6f645d1d-3ee8-44e2-a29c-35aa0c1faed4
+    position: {x: 1151, y: 295}
+  - narrativeObjectGuid: 5cc3b2d0-9bd6-4bd7-ad6c-d82e1c4b536d
+    position: {x: 1659, y: 176}
+  - narrativeObjectGuid: b43f6677-2d36-4cb7-811a-b7952e039bf1
+    position: {x: 821, y: 384}
+  - narrativeObjectGuid: 71bb92d4-c55d-4bf8-b411-d63b3d4a52ad
+    position: {x: 1445, y: 205}
+  - narrativeObjectGuid: 71cfa3e1-24d8-45c1-8466-2d2da37eb6b6
+    position: {x: 848, y: 292}
+  - narrativeObjectGuid: 3b1d6c68-f86c-43e9-8f87-1c026d3b81ee
+    position: {x: 845, y: 274}
+  - narrativeObjectGuid: 3c54d3d5-2df7-429d-91cc-4eac366e49ad
+    position: {x: 833, y: 286}
+  - narrativeObjectGuid: b095ca5c-9d21-4a80-99f5-339126e8ed21
+    position: {x: 984, y: 222}
+  - narrativeObjectGuid: 9b30c7d3-f02d-4480-995e-a1183bdb4906
+    position: {x: 819, y: 192}
+  - narrativeObjectGuid: 03ca168b-f015-432e-bf6d-c03c67e2b20c
+    position: {x: 689, y: 215}
+  - narrativeObjectGuid: 94053bb0-b5b5-4b10-9457-90d22036d3bd
+    position: {x: 700, y: 226}
+  - narrativeObjectGuid: 57ec4877-ebb5-4c97-acc1-1c315e3c172d
+    position: {x: 1659, y: 341}
+  - narrativeObjectGuid: 830e9f26-174b-4c3a-87d8-67db9ced39ab
+    position: {x: 531, y: 296}
+  - narrativeObjectGuid: e4294015-f292-49c3-bd69-1d7f7ce5b321
+    position: {x: 843, y: 296}
+  - narrativeObjectGuid: ccfd091b-0e9d-457e-a41f-249603000bd5
+    position: {x: 1681, y: 179}
+  - narrativeObjectGuid: 35e5c1b2-a55f-4be9-bf3a-01d4bc89174f
+    position: {x: 1669, y: 185}
+  - narrativeObjectGuid: 366dd74e-0431-4259-bfc1-4b231c0aa1a7
+    position: {x: 1669, y: 351}
+  - narrativeObjectGuid: b2b982a6-2618-4606-a883-3674fc393757
+    position: {x: 541, y: 306}
+  - narrativeObjectGuid: a729f08f-5ac8-4ebb-8cd1-5e9e2fa2b01c
+    position: {x: 855, y: 306}
+  viewContainerStates:
+  - narrativeObjectGuid: ce7de1c2-ec50-43ee-b076-d16ff93d47cd
+    narrativeObjectNodeGuids:
+    - a9ae0a16-01ef-4dc4-959c-b34050a0ff7a
+    - 3c54d3d5-2df7-429d-91cc-4eac366e49ad
+  - narrativeObjectGuid: 6aa3541b-c9e7-4333-a7e4-8f2f3d89efac
+    narrativeObjectNodeGuids:
+    - 35a6da9a-3eb3-4a67-a340-f8028f77b6c9
+    - ce7de1c2-ec50-43ee-b076-d16ff93d47cd
+  - narrativeObjectGuid: 24ceb0c7-1f9a-49e5-bbcd-ceb78637ca17
+    narrativeObjectNodeGuids:
+    - 94053bb0-b5b5-4b10-9457-90d22036d3bd
+    - b095ca5c-9d21-4a80-99f5-339126e8ed21
+  - narrativeObjectGuid: 731fb733-ca34-4c34-bd04-571f375bb448
+    narrativeObjectNodeGuids:
+    - 729a8d52-7932-40f3-8f63-84c61e341432
+    - 24ceb0c7-1f9a-49e5-bbcd-ceb78637ca17
+  - narrativeObjectGuid: 835a0e3e-a36c-4da9-8ba7-f4bf0f2961bf
+    narrativeObjectNodeGuids:
+    - 1bbdc5cf-6b8a-4a0d-a0e7-e5be73abf6e8
+    - 9b30c7d3-f02d-4480-995e-a1183bdb4906
+  - narrativeObjectGuid: c309f286-c017-4342-a2d2-8072ff36394e
+    narrativeObjectNodeGuids:
+    - 7a3e0358-3986-497e-a93a-667e7392a037
+    - 835a0e3e-a36c-4da9-8ba7-f4bf0f2961bf
+  - narrativeObjectGuid: 0
+    narrativeObjectNodeGuids:
+    - 6aa3541b-c9e7-4333-a7e4-8f2f3d89efac
+    - 731fb733-ca34-4c34-bd04-571f375bb448
+    - 6ed729e1-fba0-4f7d-a9c1-5b499bf72511
+    - 1c545651-101b-4f72-a299-1fa2250fcbcf
+    - c309f286-c017-4342-a2d2-8072ff36394e
+    - f0494599-ee85-4293-ab67-870ef08ab423
+    - 6f645d1d-3ee8-44e2-a29c-35aa0c1faed4
+    - ccfd091b-0e9d-457e-a41f-249603000bd5
+  - narrativeObjectGuid: 57ec4877-ebb5-4c97-acc1-1c315e3c172d
+    narrativeObjectNodeGuids:
+    - 830e9f26-174b-4c3a-87d8-67db9ced39ab
+    - e4294015-f292-49c3-bd69-1d7f7ce5b321
+  - narrativeObjectGuid: ccfd091b-0e9d-457e-a41f-249603000bd5
+    narrativeObjectNodeGuids:
+    - 35e5c1b2-a55f-4be9-bf3a-01d4bc89174f
+    - 366dd74e-0431-4259-bfc1-4b231c0aa1a7
+  - narrativeObjectGuid: 366dd74e-0431-4259-bfc1-4b231c0aa1a7
+    narrativeObjectNodeGuids:
+    - b2b982a6-2618-4606-a883-3674fc393757
+    - a729f08f-5ac8-4ebb-8cd1-5e9e2fa2b01c
+  viewContainerStackGuids:
+  - 0
